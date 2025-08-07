@@ -1,6 +1,6 @@
 # Web Crawler
 
-A scalable web crawler built for AWS Lambda with SQS and DynamoDB.
+A scalable web crawler built for AWS Lambda with SQS and DynamoDB. Though Lambda is not implement, the code uses threads to demonstrate concurrent execution.
 
 ## Architecture
 
